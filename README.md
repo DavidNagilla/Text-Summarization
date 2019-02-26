@@ -12,7 +12,7 @@ python word2vec.py
 python lstm_Attention.py
 
 
-## dependencies
+## Dependencies
 
 tensorflow, keras,sklearn
 

@@ -1,6 +1,6 @@
 # Text-Summarization
 
-Bidirectiona LSTM for text summarization
+Bidirectional LSTM for text summarization
 
 Training
 Download the data and run the following scripts in this order:

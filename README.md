@@ -18,7 +18,7 @@ tensorflow, keras,sklearn
 
 numpy, pandas, matplotlib
 
-## LSTM encoder decoder architectural and trainig parameters:
+## LSTM parameters:
 
 batch_size = 50 
 

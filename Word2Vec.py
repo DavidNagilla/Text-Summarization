@@ -41,7 +41,7 @@ def cleantext(text):
     text=re.sub(r"it's","it is ",text)
     text=re.sub(r"\'ve"," have ",text)
     text=re.sub(r"i'm","i am ",text)
-    text=re.sub(r"\'re"," are ",text)
+    text=re.sub(r"\'re"," are ",text) 
     text=re.sub(r"n't"," not ",text)
     text=re.sub(r"\'d"," would ",text)
     text=re.sub(r"\'s","s",text)

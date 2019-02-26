@@ -8,8 +8,8 @@ import re
 #########################################################
 #####################define data sources#################
 #########################################################
-CNN_data="C:\\Users\\moseli\\Documents\\Masters of Information technology\\Masters project\\text mining\\data\\new CNN\\cnn\\"
-daily_data="C:\\Users\\moseli\\Documents\\Masters of Information technology\\Masters project\\text mining\\data\\new CNN\\dailymail\\"
+CNN_data="C:\\Users\\David\\Documents\\Masters of Information technology\\Masters project\\text mining\\data\\new CNN\\cnn\\"
+daily_data="C:\\Users\\David\\Documents\\Masters of Information technology\\Masters project\\text mining\\data\\new CNN\\dailymail\\"
 
 datasets={"cnn":CNN_data,"dailymail":daily_data}
 
